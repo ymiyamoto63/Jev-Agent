@@ -1,0 +1,1 @@
+SQL injection in OrderRepository.find_by_customer (orders.py); eval in calc_discount (util.py)

@@ -1,0 +1,2 @@
+shop/orders.py: Order.total
+shop/cli.py: main

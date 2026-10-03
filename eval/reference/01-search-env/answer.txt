@@ -1,0 +1,1 @@
+shop/config.py:load_config

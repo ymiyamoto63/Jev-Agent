@@ -1,0 +1,1 @@
+shop/inventory.py defines OutOfStock; StockCounter.reserve raises it
